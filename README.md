@@ -19,7 +19,7 @@
 🦾 **Strong with:** Go, Typescript,  Rust, Node.js, Redis, Kafka, Postgres, GraphQL, Docker, gRPC
 
 📫 **Contact:** mishrayashaswikumar@gmail.com
-🌐 **Portfolio:** [yashaswi-portfolio.vercel.app](https://yashaswi-portfolio.vercel.app/)
+🌐 **Portfolio:** [here](www.pixperk.tech)
 
 ---
 
