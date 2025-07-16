@@ -10,7 +10,7 @@
 ---
 
 currently building  
-- `rws`: a rust websocket framework — custom protocol, reconnects, pubsub, cli client
+- `rws`: a rust websocket framework : custom protocol, reconnects, pubsub, cli client
 
 diving into  
 - distributed systems, rust internals, observability, orchestration
