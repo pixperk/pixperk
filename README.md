@@ -10,7 +10,11 @@
 ---
 
 currently building  
-- `rws`: a rust websocket framework : custom protocol, reconnects, pubsub, cli client
+- [**`rws`**](https://github.com/pixperk/rws) – real-time chat server in Rust  
+  Reconnects, pubsub, heartbeat, room messaging, CLI client, custom event format
+
+- [**`asynq`**](https://github.com/pixperk/asynq) – async job queue in Go  
+  Retries, timeouts, metadata, pluggable backends, JSON/SQLite persistence, job factory
 
 diving into  
 - distributed systems, rust internals, observability, orchestration
