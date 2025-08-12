@@ -24,4 +24,4 @@ strong with
 
 contact  
 - email → mishrayashaswikumar@gmail.com  
-- portfolio → [pixperk.tech](https://www.pixperk.tech)
+- learn more → [pixperk.tech](https://www.pixperk.tech)
