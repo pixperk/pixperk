@@ -1,5 +1,5 @@
 <h1 align="center">yashaswi mishra</h1>
-<h3 align="center">backend engineer · systems, infra, clean code</h3>
+<h3 align="center">backend engineer · systems, infra, lot of jargon and cool shenanigans</h3>
 
 <p align="center">
   <a href="https://twitter.com/pixperk_" target="_blank">
