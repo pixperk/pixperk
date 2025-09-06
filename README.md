@@ -1,5 +1,5 @@
 <h1 align="center">yashaswi mishra</h1>
-<h3 align="center">backend engineer · systems, infra, lot of jargon and cool shenanigans</h3>
+<h3 align="center">backend engineer · systems, infra, and other dark arts</h3>
 
 <p align="center">
   <a href="https://twitter.com/pixperk_" target="_blank">
@@ -9,19 +9,13 @@
 
 ---
 
-currently building  
-- [**`rws`**](https://github.com/pixperk/rws) – real-time chat server in Rust  
-  Reconnects, pubsub, heartbeat, room messaging, CLI client, custom event format
-
-- [**`asynq`**](https://github.com/pixperk/asynq) – async job queue in Go  
-  Retries, timeouts, metadata, pluggable backends, JSON/SQLite persistence, job factory
-
 diving into  
 - distributed systems, rust internals, observability, orchestration
 
-strong with  
+stack i vibe with  
 - rust · go · typescript · postgres · kafka · redis · grpc · docker
 
 contact  
 - email → mishrayashaswikumar@gmail.com  
-- learn more → [pixperk.tech](https://www.pixperk.tech)
+- more → [pixperk.tech](https://www.pixperk.tech)  
+- github → [pixperk](https://github.com/pixperk)
