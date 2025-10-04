@@ -10,12 +10,16 @@
 ---
 
 diving into  
-- distributed systems, rust internals, observability, orchestration
+- distributed systems, rust internals, observability, orchestration  
+
+currently writing  
+- pixtorrent for fun, and building much more along the way  
 
 stack i vibe with  
-- rust · go · typescript · postgres · kafka · redis · grpc · docker
+- rust · go · typescript · postgres · kafka · redis · grpc · docker  
 
 contact  
 - email → mishrayashaswikumar@gmail.com  
-- more → [pixperk.tech](https://www.pixperk.tech)  
-- github → [pixperk](https://github.com/pixperk)
+- site → [pixperk.tech](https://www.pixperk.tech)  
+- github → [pixperk](https://github.com/pixperk)  
+- meet → [book a quick call](https://cal.com/yashaswi)  
