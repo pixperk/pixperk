@@ -54,7 +54,3 @@ making machines agree on things. consensus is hard. consent is necessary.
 </details>
 
 ---
-
-```
-rust · go · typescript · c++ · postgres · kafka · redis · grpc · docker
-```
