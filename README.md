@@ -51,9 +51,3 @@ making machines agree on things. consensus is hard. consent is necessary.
 &nbsp;&nbsp;[mprdc](https://github.com/pixperk/mprdc) · [catchya](https://github.com/pixperk/catchya) · [RPseeee](https://github.com/pixperk/RPseeee) · [translite](https://github.com/pixperk/translite) · [gossippeer](https://github.com/pixperk/gossippeer) · [qtql](https://github.com/pixperk/qtql) · [graphyti](https://github.com/pixperk/graphyti) · [adhd](https://github.com/pixperk/adhd) · [steggg](https://github.com/pixperk/steggg) · [bloxer](https://github.com/pixperk/bloxer) · [stream-in-go](https://github.com/pixperk/stream-in-go)
 
 </details>
-
----
-
-```
-rust · go · typescript · c++ · postgres · kafka · redis · grpc · docker
-```
