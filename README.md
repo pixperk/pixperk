@@ -37,7 +37,6 @@ making machines agree on things. consensus is hard. consent is necessary.
 <summary>&nbsp;<b>B tier</b></summary>
 <br>
 
-&nbsp;&nbsp;[**mprdc**](https://github.com/pixperk/mprdc) · google's mapreduce (2004) paper implementation in go.<br>
 &nbsp;&nbsp;[**vaultify**](https://github.com/pixperk/vaultify) · secrets management. AES-256, version history, audit logs, RBAC, PASETO auth.<br>
 &nbsp;&nbsp;[**grit**](https://github.com/pixperk/grit) · git-style version control for spotify & youtube playlists. branch, merge, diff + TUI player.<br>
 &nbsp;&nbsp;[**nosynK**](https://github.com/pixperk/nosynK) · async job queue system in go.<br>
@@ -49,8 +48,12 @@ making machines agree on things. consensus is hard. consent is necessary.
 <summary>&nbsp;<b>C & D tier</b></summary>
 <br>
 
-&nbsp;&nbsp;[catchya](https://github.com/pixperk/catchya) · [RPseeee](https://github.com/pixperk/RPseeee) · [translite](https://github.com/pixperk/translite) · [gossippeer](https://github.com/pixperk/gossippeer) · [qtql](https://github.com/pixperk/qtql) · [graphyti](https://github.com/pixperk/graphyti) · [adhd](https://github.com/pixperk/adhd) · [steggg](https://github.com/pixperk/steggg) · [bloxer](https://github.com/pixperk/bloxer) · [stream-in-go](https://github.com/pixperk/stream-in-go)
+&nbsp;&nbsp;[mprdc](https://github.com/pixperk/mprdc) · [catchya](https://github.com/pixperk/catchya) · [RPseeee](https://github.com/pixperk/RPseeee) · [translite](https://github.com/pixperk/translite) · [gossippeer](https://github.com/pixperk/gossippeer) · [qtql](https://github.com/pixperk/qtql) · [graphyti](https://github.com/pixperk/graphyti) · [adhd](https://github.com/pixperk/adhd) · [steggg](https://github.com/pixperk/steggg) · [bloxer](https://github.com/pixperk/bloxer) · [stream-in-go](https://github.com/pixperk/stream-in-go)
 
 </details>
 
 ---
+
+```
+rust · go · typescript · c++ · postgres · kafka · redis · grpc · docker
+```
