@@ -1,0 +1,73 @@
+<svg fill="none" viewBox="0 0 800 436" width="800" height="436" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&amp;display=swap');
+        *{margin:0;padding:0;box-sizing:border-box}
+        .tc{font-family:'JetBrains Mono',monospace;width:100%;border-radius:10px;overflow:hidden;background:#13111c;border:1px solid rgba(255,255,255,0.06)}
+        .tr{display:flex;align-items:stretch;border-bottom:1px solid rgba(255,255,255,0.04);min-height:48px}
+        .tr:last-child{border-bottom:none}
+        .tl{width:52px;min-width:52px;display:flex;align-items:center;justify-content:center;font-weight:600;font-size:17px;letter-spacing:0.5px;border-right:1px solid rgba(255,255,255,0.04)}
+        .s .tl{background:linear-gradient(160deg,#ff6b81,#ee5a6f);color:#1a0a0e;text-shadow:0 1px 0 rgba(255,255,255,0.15)}
+        .a .tl{background:linear-gradient(160deg,#ffa348,#e8923a);color:#1a0f04;text-shadow:0 1px 0 rgba(255,255,255,0.15)}
+        .b .tl{background:linear-gradient(160deg,#7dd4a1,#5cbf88);color:#061a0f;text-shadow:0 1px 0 rgba(255,255,255,0.15)}
+        .c .tl{background:linear-gradient(160deg,#6fa8f7,#5b94e0);color:#040e1a;text-shadow:0 1px 0 rgba(255,255,255,0.15)}
+        .d .tl{background:linear-gradient(160deg,#8b8fa3,#757a8e);color:#0e0e12;text-shadow:0 1px 0 rgba(255,255,255,0.1)}
+        .ti{display:flex;flex-wrap:wrap;align-items:center;padding:7px 10px;gap:6px;flex:1}
+        .p{background:rgba(255,255,255,0.05);color:#b8bcc8;padding:5px 10px;border-radius:5px;font-size:11px;letter-spacing:0.2px;white-space:nowrap;display:inline-flex;align-items:center;gap:5px}
+        .p .l{color:rgba(255,255,255,0.2);font-size:9.5px;font-weight:400}
+      </style>
+      <div class="tc">
+        <div class="tr s">
+          <div class="tl">S</div>
+          <div class="ti">
+            <span class="p">juzfs <span class="l">rs</span></span>
+            <span class="p">cineyma <span class="l">rs</span></span>
+          </div>
+        </div>
+        <div class="tr a">
+          <div class="tl">A</div>
+          <div class="ti">
+            <span class="p">plethora <span class="l">go</span></span>
+            <span class="p">pixtorrent <span class="l">go</span></span>
+            <span class="p">redis_in_rust <span class="l">rs</span></span>
+            <span class="p">lowkey <span class="l">go</span></span>
+            <span class="p">dokidb <span class="l">rs</span></span>
+            <span class="p">neu <span class="l">c++</span></span>
+            <span class="p">chug <span class="l">go</span></span>
+          </div>
+        </div>
+        <div class="tr b">
+          <div class="tl">B</div>
+          <div class="ti">
+            <span class="p">mprdc <span class="l">go</span></span>
+            <span class="p">vaultify <span class="l">go</span></span>
+            <span class="p">grit <span class="l">rs</span></span>
+            <span class="p">nosynK <span class="l">go</span></span>
+            <span class="p">uptimex <span class="l">ts</span></span>
+          </div>
+        </div>
+        <div class="tr c">
+          <div class="tl">C</div>
+          <div class="ti">
+            <span class="p">catchya <span class="l">go</span></span>
+            <span class="p">RPseeee <span class="l">rs</span></span>
+            <span class="p">translite <span class="l">go</span></span>
+            <span class="p">gossippeer <span class="l">go</span></span>
+            <span class="p">qtql <span class="l">go</span></span>
+            <span class="p">graphyti <span class="l">go</span></span>
+          </div>
+        </div>
+        <div class="tr d">
+          <div class="tl">D</div>
+          <div class="ti">
+            <span class="p">adhd <span class="l">go</span></span>
+            <span class="p">steggg <span class="l">rs</span></span>
+            <span class="p">bloxer <span class="l">go</span></span>
+            <span class="p">stream-in-go <span class="l">go</span></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
